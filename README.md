@@ -1,0 +1,1 @@
+BlockInsightPro is a web-based crypto analysis tool with AI assistance, designed to provide real-time market insights. It integrates Binance, Yahoo Finance, and TradingView APIs to deliver market data, AI-driven analytics, and interactive charts. The tool helps traders analyze trends without direct trading integration, ensuring a secure and data-driven approach to crypto markets.
